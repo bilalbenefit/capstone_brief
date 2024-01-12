@@ -119,10 +119,6 @@ berikut question yang diperlukan dalam pembuatan dashboard / visualisasi nya
         2. "Apa saja hari paling sibuk dalam hal transaksi?"
         3. "Bagaimana distribusi jumlah transaksi per hari?"
 
-    Pertanyaan Mengenai Pelanggan dan Pemasok:
-        1. "Siapa pelanggan yang paling sering melakukan transaksi?"
-        2. "Berapa jumlah transaksi yang dilakukan oleh setiap pelanggan?"
-        3. "Apa saja pemasok yang menyediakan produk dengan jumlah stok terbanyak?"
 
 ## 📆 Schedule Meeting and Format Mentoring
 
