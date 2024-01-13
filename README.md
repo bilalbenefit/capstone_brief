@@ -96,28 +96,43 @@ berikut question yang diperlukan dalam pembuatan dashboard / visualisasi nya
 
     Pertanyaan Mengenai Produk:
         1. "Apa saja produk-produk dengan usia paling muda dan paling tua?"
+            --> jadi in 2 question yaitu 5 usia paling muda dan & 5 usia paing tua (dalam bentuk bar chart horizontal)
         2. "Bagaimana distribusi usia produk di seluruh kategori?"
+            --> pie chart
         3. "Berapa jumlah produk di setiap kategori?"
+            --> barchart vertical, sumbu x nya kategori, sumbu y nya jumlah produk
 
     Pertanyaan Mengenai Transaksi:
         1. "Bagaimana tren penjualan produk dari waktu ke waktu?"
+            --> line chart
         2. "Produk apa yang memiliki jumlah pembelian paling tinggi?"
+            --> bar chart horizontal
         3. "Berapa jumlah penjualan produk di setiap kategori?"
+            --> bar chart
 
     Pertanyaan Mengenai Stok:
         1. "Berapa jumlah stok yang tersedia di setiap lokasi gudang?"
+            --> bar chart
         2. "Bagaimana distribusi stok produk di antara lokasi gudang?"
         3. "Apa saja produk yang hampir habis stok?"
+            --> bar chart
 
     Pertanyaan Mengenai Kategori Produk:
-        1. "Berapa rata-rata usia produk di setiap kategori?"
+        1. "Berapa rata-rata usia produk ?"
+            --> dalam bentuk number
         2. "Apa saja kategori produk yang paling populer berdasarkan jumlah produk?"
+            --> bar chart
         3. "Bagaimana distribusi usia produk di setiap kategori?"
+            --> bar chart sumbu y = usia, sumbu x = nama kategori
 
     Pertanyaan Mengenai Waktu:
         1. "Bagaimana tren jumlah transaksi dari waktu ke waktu?"
+            --> dalam bentuk line chart, sumbu x adalah waktu dan sumbu y adalah jumlah transaksi
         2. "Apa saja hari paling sibuk dalam hal transaksi?"
+            --> number
         3. "Bagaimana distribusi jumlah transaksi per hari?"
+            --> bar chart sumbu y = jumlah transaksi, sumbu x = hari
+
 
 
 ## 📆 Schedule Meeting and Format Mentoring
